@@ -1,7 +1,14 @@
 .main-box {
-    height:150px;
+    height:100px;
     width:100%;
-    margin: 5px;
+    margin:10px;
     border-radius: 10px;
     background-color: lightblue;
+}
+.red-box {
+    height:100px;
+    width:100%;
+    margin:10px;
+    border-radius: 10px;
+    background-color:red;
 }
