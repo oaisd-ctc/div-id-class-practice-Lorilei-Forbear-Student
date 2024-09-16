@@ -6,72 +6,32 @@
     background-color: lightblue;
 }
 #red-box {
-    height:100px;
-    width:100%;
-    margin:10px;
-    border-radius: 10px;
     background-color:rgb(173, 29, 29);
 }
 #orange-box{
-    height:100px;
-    width:100%;
-    margin:10px;
-    border-radius: 10px;
     background-color:orange;
 }
 #yellow-box {
-    height:100px;
-    width:100%;
-    margin:10px;
-    border-radius: 10px;
     background-color: yellow;
 }
 #green-box{
-    height:100px;
-    width:100%;
-    margin:10px;
-    border-radius: 10px;
     background-color: green;
 }
 #blue-box{
-    height:100px;
-    width:100%;
-    margin:10px;
-    border-radius: 10px;
     background-color:cornflowerblue
 }
 #indigo-box{
-    height:100px;
-    width:100%;
-    margin:10px;
-    border-radius: 10px;
     background-color: darkslateblue;
 }
 #purple-box{
-    height:100px;
-    width:100%;
-    margin:10px;
-    border-radius: 10px;
     background-color:mediumslateblue;
 }
 #pink-box{
-    height:100px;
-    width:100%;
-    margin:10px;
-    border-radius: 10px;
     background-color:hotpink;
 }
 #white-box{
-    height:100px;
-    width:100%;
-    margin:10px;
-    border-radius: 10px;
     background-color: white;
 }
 #black-box{
-    height:100px;
-    width:100%;
-    margin:10px;
-    border-radius: 10px;
     background-color:black;
 }
